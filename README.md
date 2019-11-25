@@ -1,1 +1,1 @@
-[TOOL-657] (https://jira.toolsfdg.net/browse/TOOL-657)
+[I'm an inline-style link](https://www.google.com)
